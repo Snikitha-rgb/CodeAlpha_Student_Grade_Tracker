@@ -1,0 +1,1 @@
+Student Grade Tracker is an application developed by using java programming which I have secured from @CodeAlpha to calculate the students' grades and compute their average, highest and lowest scores.
